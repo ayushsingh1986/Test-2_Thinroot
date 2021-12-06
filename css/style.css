@@ -1,0 +1,63 @@
+.centered {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: white;
+}
+
+.container-fluid {
+    position: relative;
+    text-align: center;
+    /* color: white; */
+}
+
+.rounded-pill {
+    color: white;
+    background-color: #62bfe6;
+    padding: 10px 60px;
+    border-radius: 10px;
+}
+
+.container {
+    position: relative;
+    text-align: center;
+    background-color: #fff;
+}
+
+.example1 {
+    border: 2px solid white;
+    border-radius: 700px 0px 0px 800px;
+    text-align: left;
+    background-color: white;
+}
+
+.circle {
+    border-radius: 20px;
+}
+
+
+/* /* .center {
+        /* background: white; */
+
+.icon {
+    width: 30px;
+    height: 30px;
+    position: absolute;
+}
+
+.form-group {
+    text-align: center;
+}
+
+table,
+th,
+td {
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+
+table.center {
+    margin-left: auto;
+    margin-right: auto;
+}
